@@ -1,0 +1,17 @@
+nav {
+  div {
+    display: flex;
+    margin: .5em 1em;
+
+    a {
+      margin: 0 .5em;
+      border-radius: .5em;
+      padding: .4rem .5em;
+      border: black 1px solid;
+      text-decoration: none;
+      background: #FFD700;
+      color: white;
+      cursor: pointer;
+    }
+  }
+}
